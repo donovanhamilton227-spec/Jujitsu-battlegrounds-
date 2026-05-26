@@ -1,13 +1,33 @@
-# ⚡ Jujutsu Battlegrounds
+Jujutsu Kaisen v2.3.4 (Battlegrounds)
 
-A mobile-based multiplayer fighting game inspired by **Jujutsu Kaisen** and **Roblox Strongest Battlegrounds**.
+Welcome to the repository for Jujutsu Kaisen v2.3.4! Download the latest stable build to jump straight into the arena.
 
-## 🎮 Features
+## 🎮 How to Download and Play
 
-✅ **5-10 JJS Characters** - Each with 5 unique moves  
-✅ **Black Flash Chains** - Timed perfect attacks for damage multipliers  
-✅ **Combo System** - Rapid clicks for extended combos  
-✅ **Mobile Controls** - Block, Hit, Dash, R (Special)  
+Follow these simple steps to install and run the game on your PC:
+
+1. **Download the Game:** Go to the **Releases** section on the right side of this page and download the latest `.zip` file.
+2. **Extract the Files:** Right-click the downloaded `.zip` folder and select **Extract All...** to unpack the files into a normal folder.
+3. **Run the Game:** Open the extracted folder and double-click the game file to start playing!
+
+---
+
+## 🛠️ System Requirements
+* **OS:** Windows 10 / 11 (64-bit)
+* **Controls:** Keyboard & Mouse 
+
+## 📝 Update Notes (v2.3.4)
+* Optimized combat hitboxes and animations.
+* Patched character physics bugs.
+* Balanced movement and ability cooldowns.
+Use code with caution.Once you have this copied, paste it right into your GitHub README.md file.Let me know when you have pasted it, or tell me if you need help finding the Edit button on your mobile browser!AI responses may include mistakes. Learn more Jujutsu Battlegrounds
+
+
+
+
+
+
+✅ **Combo System** - Rapid clicks for extended combos   
 ✅ **Boss Battles** - 2-3 epic boss encounters  
 ✅ **Open World PvP** - Meet players and clash/brawl  
 ✅ **Emote Rewards** - 1 emote per 20 kills  
